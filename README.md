@@ -109,8 +109,8 @@ To write a java  program that removes all nodes from a linked list whose value m
 ```
 /*
 program that removes all nodes from a linked list whose value matches a given integer (val) and returns the new head of the modified linked list.
-Developed by:SANJEEV RAJ.S
-RegisterNumber:  212223220096
+Developed by: Vignesh M
+RegisterNumber:  212223240176
 */
 
 import java.util.*;
@@ -217,8 +217,8 @@ If there is no cycle, the program should return null without modifying the linke
 /*
 program that detects a cycle in a linked list and returns the node where the cycle begins.
 If there is no cycle, the program should return null without modifying the linked list.
-Developed by: SANJEEV RAJ.S
-RegisterNumber:  212223220096
+Developed by: Vignesh M
+RegisterNumber:  212223240176
 */
 
 import java.util.*;
@@ -342,8 +342,8 @@ The task is to return the maximum size among all such sets.
 ```
 /*
 Program to find the Longest Length of Nested Set in a Permutation Array
-Developed by: SANJEEV RAJ.S
-RegisterNumber:  212223220096
+Developed by: Vignesh M
+RegisterNumber:  212223240176
 */
 
 import java.util.*;
@@ -410,8 +410,8 @@ To design and implement a class NestedIterator that flattens a nested list of in
 ```
 /*
 Program to find Flattening a Nested List Using an Iterator
-Developed by: SANJEEV RAJ.S
-RegisterNumber:  212223220096
+Developed by: Vignesh M
+RegisterNumber:  212223240176
 */
 
 import java.util.*;
